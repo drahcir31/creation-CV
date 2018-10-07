@@ -1,0 +1,38 @@
+{
+  "competences": [
+    {
+      "id": "language",
+      "details": [
+        {
+          "id": "Java"
+        },
+        {
+          "id": "JavaScript"
+        },
+        {
+          "id": "TypeScript"
+        },
+        {
+          "id": "HTML"
+        }
+      ]
+    },
+    {
+      "id": "Framework",
+      "details": [
+        {
+          "id": "Angular"
+        },
+        {
+          "id": "GWT"
+        },
+        {
+          "id": "Spring"
+        },
+        {
+          "id": "Bootstrap"
+        }
+      ]
+    }
+  ]
+}
